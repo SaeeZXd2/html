@@ -1,0 +1,16 @@
+to make an inner linke 
+we use the tag <a> 
+here is  a imple code
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Paragraph and Button</title>
+</head>
+<body>
+    <p>This is a simple paragraph text.</p>
+    <button>Click Me</button><br>
+    <br> 
+    <a href="https://www.youtube.com/"> link to youtube</a>
+</body>
+</html>
