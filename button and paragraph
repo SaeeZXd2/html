@@ -2,3 +2,20 @@ to make  a button in your website u simpliy type
 <button> name of the button </button>
 to make a paragraph u type a 
 <p> ur parapgraph </p> 
+
+
+here ins a simple code 
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Paragraph and Button</title>
+</head>
+<body>
+    <p>This is a simple paragraph text.</p>
+    <button>Click Me</button>
+</body>
+</html>
