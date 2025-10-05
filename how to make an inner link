@@ -14,3 +14,7 @@ here is  a imple code
     <a href="https://www.youtube.com/"> link to youtube</a>
 </body>
 </html>
+
+if we would like to open the link in a new tab or new window we use the attrbute target
+    <a href="https://www.youtube.com/" target="_blank"> youtube</a>
+ "_blank" will take us into a new tab with youtube page opening
